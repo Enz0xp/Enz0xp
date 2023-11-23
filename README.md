@@ -10,7 +10,7 @@
   <a href="#"><img src="6.gif"><a/>
 </p>
     
-<h1> about me: </h1>
+<h1> 💬 about me: </h1>
 
 🇧🇷 **Oi, eu sou o Enzo, brasileiro e aprendendo inglês. Apaixonado por cibersegurança, atualmente me aprofundando em SOC (Centro de Operações de Segurança).**
 
