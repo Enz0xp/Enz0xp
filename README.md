@@ -10,8 +10,13 @@
   <a href="#"><img src="6.gif"><a/>
 </p>
     
-💬 **about me:** 
-Hi, I'm Enzo, a Brazilian 🇧🇷 studying cybersecurity. I love playing CTFs and I'm learning English 🇺🇸. 
+<h1> about me: </h1>
+
+🇧🇷 **Oi, eu sou o Enzo, brasileiro e aprendendo inglês. Apaixonado por cibersegurança, atualmente me aprofundando em SOC (Centro de Operações de Segurança).**
+
+🇺🇸 **Hi, I'm Enzo, Brazilian and learning English. Passionate about cybersecurity, currently delving into SOC (Security Operations Center).**
+
+🇯🇵 **こんにちは、私はエンゾです。ブラジル出身で、英語を学んでいます。サイバーセキュリティに夢中で、現在はSOC（セキュリティオペレーションセンター）について詳しく学んでいます**
 
 🌐 **Connect with Me:** [LinkTree 🌲 ](https://linktr.ee/enzo101)
 
