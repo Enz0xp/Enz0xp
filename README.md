@@ -19,4 +19,4 @@ Hi, I'm Enzo, a Brazilian 🇧🇷 studying cybersecurity. I love playing CTFs a
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,c,docker,vscode,bash,linux " />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=24&duration=4983&pause=1000&color=F70920&random=false&width=470&height=60&lines=everything+is+vulnerable+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=24&duration=4983&pause=1000&color=F70920&random=false&width=470&height=60&lines=''everything+is+vulnerable+!''" alt="Typing SVG" /></a>
