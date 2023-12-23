@@ -11,7 +11,7 @@
     
 <h1> 💬 about me: </h1>
 
-🇺🇸 **Hi, I'm Enzo, Brazilian and learning English. Passionate about cybersecurity, currently delving into SOC (Security Operations Center).**
+🇺🇸 **Hi, I'm Enzo, Brazilian and learning English. Passionate about cybersecurity.**
 
 🌐 **Connect with Me:** [LinkTree 🌲 ](https://linktr.ee/enzo101)
 
