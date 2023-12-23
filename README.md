@@ -11,8 +11,17 @@
     
 <h1> 💬 about me: </h1>
 
-🇺🇸 **Hi, I'm Enzo, Brazilian and learning English. Passionate about cybersecurity.**
+```cpp
+#include <iostream>
 
+int main() {
+    std::cout << "Nome: Enzo" << std::endl;
+    std::cout << "Estudante de Cybersecurity" << std::endl;
+    std::cout << "Nacionalidade: Brasileiro" << std::endl;
+
+    return 0;
+}
+```
 🌐 **Connect with Me:** [LinkTree 🌲 ](https://linktr.ee/enzo101)
 
 <h4> Technologies </h4> 
